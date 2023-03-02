@@ -4,9 +4,9 @@
   </a>
 </p>
 
-Second branch first commit
-Second branch second commit
-Second branch third commit
+First and Second branch first commit
+First and Second branch second commit
+First and Second branch third commit
 
 # Naming cheatsheet
 
