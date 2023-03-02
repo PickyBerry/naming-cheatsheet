@@ -6,6 +6,7 @@
 
 Second branch first commit
 Second branch second commit
+Second branch third commit
 
 # Naming cheatsheet
 
